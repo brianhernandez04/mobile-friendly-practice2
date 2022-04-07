@@ -40,3 +40,18 @@ footer {
     color: white;
     padding: 50px 800px 0px 800px;
 }
+@media all and (min-width: 480px) {
+    header {
+        background-color: red;
+    }
+}
+@media all and (min-width: 768px) {
+    header {
+        background-color: blue;
+    }
+}
+@media all and (min-width: 1024px) {
+    header {
+        background-color: grey;
+    }
+}
