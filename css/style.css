@@ -5,6 +5,7 @@
 }
 header {
     width: 100%;
+    background-color: white;
 }
 .theme-title {
     text-align: center;
@@ -23,6 +24,7 @@ header {
     color: #0C6D78;
     letter-spacing: 5px;
     font-size: 27px;
+    padding-top: 15px;
 }
 .second-sec {
     text-align: right;
